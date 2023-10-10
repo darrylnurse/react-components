@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-components/static/css/main.3fac2058.css",
+    "main.js": "/react-components/static/js/main.e21c24f1.js",
+    "index.html": "/react-components/index.html",
+    "main.3fac2058.css.map": "/react-components/static/css/main.3fac2058.css.map",
+    "main.e21c24f1.js.map": "/react-components/static/js/main.e21c24f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fac2058.css",
+    "static/js/main.e21c24f1.js"
+  ]
+}
