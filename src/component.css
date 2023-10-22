@@ -32,3 +32,27 @@
     left: 0;
     right: 0;
 }
+
+.wideBox {
+    position: absolute;
+}
+
+.wideBox {
+    width: 100%;
+    transition: width 1s ease;
+}
+
+.narrowBox {
+    width: 50%;
+    transition: width 1s ease;
+}
+
+.active {
+    width: 100%;
+    transition: width 1s ease;
+}
+
+.inactive {
+    width: 20%;
+    transition: width 1s ease;
+}
